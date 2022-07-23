@@ -1,5 +1,5 @@
 # php-process-handler
-A small library to avoid process overlapping. Working on MongoDB with the Jenssegers library. But you may replace the infrastructure to use it in any other DBs.
+A small library to avoid process overlapping. Working on MongoDB with the Jenssegers library. But you may replace the infrastructure to use it with any other DBs.
 
 Use example:
 
